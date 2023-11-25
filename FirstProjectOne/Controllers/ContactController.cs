@@ -20,6 +20,8 @@ namespace FirstProjectOne.Controllers
         public int add()
         {
             int a = 5;
+            int sa= 5;
+
             int b = 6;
             int s = a + b;
             return s;
